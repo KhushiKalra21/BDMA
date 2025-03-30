@@ -75,11 +75,9 @@ Through **advanced querying, aggregation, and visualization**, this project high
 
 ## **Author & Contributions**  
 
-**Khushi Kalra**  
-GitHub: [KhushiKalra21](https://github.com/KhushiKalra21)
+[KhushiKalra21](https://github.com/KhushiKalra21)
 
-**Rushil Kohli**
-Github: [Rushil-K](https://github.com/Rushil-K)
+[Rushil-K](https://github.com/Rushil-K)
 
 
 

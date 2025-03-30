@@ -50,26 +50,6 @@ This project serves as a **powerful business intelligence tool**, helping **film
 
 ---
 
-## **Getting Started**  
-
-To explore the dataset and queries, follow these steps:  
-
-### **1. Clone the Repository**  
-
-git clone https://github.com/yourusername/mongodb-movie-analytics.git
-cd mongodb-movie-analyticsS
-
-
-### **2. Open MongoDB Compass**  
-- Import the dataset  
-- Execute queries from the respective `.md` files  
-
-### **3. Access MongoDB Atlas Dashboard**  
-- Open **MongoDB Atlas**  
-- Navigate to **Charts**  
-- Explore the interactive visualizations  
-
----
 
 ## **Conclusion & Industry Impact**  
 
@@ -99,7 +79,7 @@ Through **advanced querying, aggregation, and visualization**, this project high
 GitHub: [KhushiKalra21](https://github.com/KhushiKalra21)
 
 **Rushil Kohli**
-Github: 
+Github: [Rushil-K](https://github.com/Rushil-K)
 
 
 

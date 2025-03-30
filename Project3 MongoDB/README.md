@@ -50,25 +50,12 @@ This project serves as a **powerful business intelligence tool**, helping **film
 
 ---
 
-## **Dashboard Snapshots**  
-
-Here are some **key visualizations** created using **MongoDB Atlas Charts**:  
-
-- Genre-Wise IMDb Rating Distribution  
-- Director Performance Trends  
-- Box Office Earnings vs. IMDb Ratings  
-- Movie Runtime vs. Success Rate  
-
-*Add screenshots of the MongoDB Atlas Dashboard for better clarity.*  
-
----
-
 ## **Getting Started**  
 
 To explore the dataset and queries, follow these steps:  
 
 ### **1. Clone the Repository**  
-```bash
+
 git clone https://github.com/yourusername/mongodb-movie-analytics.git
 cd mongodb-movie-analyticsS
 

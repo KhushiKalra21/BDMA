@@ -1,7 +1,7 @@
 # ECommerce-Waste-Management-DB
 
-#### SQL REPORT can be viewed here : [REPORT]()
-#### ERD DB REPORT can be viewed here : [REPORT]()
+#### SQL REPORT can be viewed here : [REPORT](https://colab.research.google.com/github/KhushiKalra21/BDMA/blob/main/Project%201%2B2/KKsg2139_MYSQL_Report_Consumer_Waste_DB.ipynb)
+#### ERD DB REPORT can be viewed here : [REPORT](https://colab.research.google.com/github/KhushiKalra21/BDMA/blob/main/Project%201%2B2/kksg_2139_ERD_Report_Final.ipynb)
 
 ## Project Overview
 This project focuses on designing and implementing a Consumer Waste Management Database for the e-commerce industry. The aim is to structure and store data related to waste generated from e-commerce activities, helping businesses analyze waste patterns and optimize sustainable practices.

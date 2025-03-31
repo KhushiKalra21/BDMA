@@ -1,5 +1,8 @@
 # ECommerce-Waste-Management-DB
 
+#### SQL REPORT can be viewed here : [REPORT]()
+#### ERD DB REPORT can be viewed here : [REPORT]()
+
 ## Project Overview
 This project focuses on designing and implementing a Consumer Waste Management Database for the e-commerce industry. The aim is to structure and store data related to waste generated from e-commerce activities, helping businesses analyze waste patterns and optimize sustainable practices.
 
@@ -19,13 +22,5 @@ This project focuses on designing and implementing a Consumer Waste Management D
 - **SQL_Scripts/** → SQL scripts for database creation and table definitions
 - **Docs/** → Project documentation and reports
   
- ## Installation & Usage  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/KhushiKalra21/ECommerce-Waste-Management-DB.git
-2. Import the database schema into MySQL Workbench.
-3. Execute the SQL scripts to create tables and relationships.
-4. Integrate the database with an application or data analysis tool for further insights.
-
 ## License  
 This project is licensed under the [Apache License 2.0.](https://github.com/KhushiKalra21/ECommerce-Waste-Management-DB/blob/main/LICENSE)  

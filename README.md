@@ -18,7 +18,7 @@ This repository contains the work done for the **BDMA (Big Data Management and A
 * **Contributors**: Rushil Kohli, Khushi Kalra  
 * **Description**: This project explores MongoDB as a NoSQL database solution for handling large-scale datasets. It covers database design, indexing strategies, query optimization, and real-world use cases in big data applications.  
 * **Folder**: `Project3 MongoDB/`
-* **[README]([https://github.com/KhushiKalra21/BDMA/blob/main/Project3%20MongoDB/README.md])**
+* **[README](https://github.com/KhushiKalra21/BDMA/blob/main/Project3%20MongoDB/README.md)**
 
 ## **License**
 
